@@ -8,8 +8,8 @@
 	<Url type="text/html" template="https://thepopschool.wordpress.com/?s={searchTerms}" method="GET" />
 	<Url type="application/opensearchdescription+xml" rel="self" template="https://thepopschool.wordpress.com/osd.xml" />
 	<LongName>People of Programming</LongName>
-	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://thepopschool.files.wordpress.com/2022/11/cropped-pop_christmaslogo-full-red.png?w=16</Image>
-	<Image height="64" width="64" type="image/png">https://thepopschool.files.wordpress.com/2022/11/cropped-pop_christmaslogo-full-red.png?w=64</Image>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://thepopschool.files.wordpress.com/2022/12/poplogo_square_pfp.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://thepopschool.files.wordpress.com/2022/12/poplogo_square_pfp.png?w=64</Image>
 	<Query role="example" searchTerms="photography" />
 	<Tags>blog</Tags>
 	<Developer>Automattic</Developer>
